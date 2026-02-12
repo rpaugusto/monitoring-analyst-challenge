@@ -103,6 +103,3 @@ dash==2.17.1
 setuptools
 wheel
 ```
-
-
-git remote add origin https://github.com/rpaugusto/monitoring-analyst-challenge.git
