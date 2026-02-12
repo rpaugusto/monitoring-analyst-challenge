@@ -1,0 +1,13 @@
+2026-02-11 22:12:22,999 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.28:5000
+2026-02-11 22:12:22,999 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-11 22:12:23,011 - INFO -  * Restarting with stat
+2026-02-11 22:12:23,952 - WARNING -  * Debugger is active!
+2026-02-11 22:12:23,955 - INFO -  * Debugger PIN: 159-755-562
+2026-02-11 22:12:51,797 - INFO - 127.0.0.1 - - [11/Feb/2026 22:12:51] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-11 22:12:52,044 - INFO - 127.0.0.1 - - [11/Feb/2026 22:12:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-11 22:13:09,031 - INFO - 127.0.0.1 - - [11/Feb/2026 22:13:09] "[31m[1mGET /check-transaction HTTP/1.1[0m" 405 -
+2026-02-11 22:13:24,153 - INFO - 127.0.0.1 - - [11/Feb/2026 22:13:24] "GET /stats HTTP/1.1" 200 -
+2026-02-11 22:14:19,754 - INFO - 127.0.0.1 - - [11/Feb/2026 22:14:19] "GET /health HTTP/1.1" 200 -
