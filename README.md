@@ -4,6 +4,7 @@ Este repositório contém a solução completa para o desafio técnico da CloudW
 
 ## 📋 Estrutura do Projeto
 
+```
 monitoring-challenge/
 │
 ├── part1_analysis/ # Análise Exploratória
@@ -24,6 +25,7 @@ monitoring-challenge/
 ├── .gitignore
 ├── requirements.txt # Dependências do projeto
 └── README.md # Este arquivo
+```
 
 ## 🚀 Como Executar
 
@@ -101,3 +103,6 @@ dash==2.17.1
 setuptools
 wheel
 ```
+
+
+git remote add origin https://github.com/rpaugusto/monitoring-analyst-challenge.git
